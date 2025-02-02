@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gcr188mexwhin.github.io/info-gcr/sitemap.xml
